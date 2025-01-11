@@ -309,8 +309,8 @@ span{
     top: 0px;
     left:30px;
     bottom: 60px;
-    width: 70px; /* Adjust size as needed */
-    height: 70px; /* Adjust size as needed */
+    width: 70px;
+    height: 70px;
     background-image: url('./assets/quote-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -322,8 +322,8 @@ span{
     font-size: 100px;
     color: #333; /* Adjust color if needed */
     position: absolute;
-    top: -10px; /* Move higher by increasing the negative value */
-    left: 20px; /* Adjust if needed for horizontal alignment */
+    top: -10px;
+    left: 20px;
     background: transparent;
 }
 
@@ -563,9 +563,9 @@ select {
     }
 
     .donation-option:hover {
-        background-color: hsl(190, 3%, 45%); /* Slightly darker shade for hover effect */
-        color: #fff; /* Change text color to white for better contrast */
-        border-color: #888; /* Adjust border color */
+        background-color: hsl(190, 3%, 45%);
+        color: #fff;
+        border-color: #888;
     }
 
     .custom-amount {
